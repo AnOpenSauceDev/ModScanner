@@ -40,3 +40,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/test/test.jar
+
+### temp files from TheScanMan ###
+./scanFiles/*
